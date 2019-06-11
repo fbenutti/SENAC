@@ -75,7 +75,7 @@ Seguir os passos de instalação, que constituem basicamente de:
  - Baixar o SDK do Flutter e colocá-lo na pasta "C:\src\flutter"
  - Baixar e instalar o Android Studio
  - Configurar o plugin do flutter no Android Studio
- - Rodar o commando "flutter doctor" no Prompt de Commando para certificar que está tudo ok.
+ - Rodar o comando "flutter doctor" no Prompt de Comando para certificar que está tudo ok.
 
 
 **Criação do primeiro App**
