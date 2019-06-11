@@ -81,3 +81,16 @@ Seguir os passos de instalação, que constituem basicamente de:
 **Criação do primeiro App**
 
 Regra nº1: **Nunca feche a máquina virtual**
+
+1. Abrir o Android Studio
+2. Abrir a Máquina Virtual (emulador do Android)
+3. Apertar o botão "Start new Flutter Project" (iniciar novo projeto do flutter)
+4. Escolher Aplicativo Flutter
+5. Colocar o nome do projeto, descrição, e o caminho do SDK.
+6. Nome da empresa (não mudou nada)
+
+
+
+
+
+
