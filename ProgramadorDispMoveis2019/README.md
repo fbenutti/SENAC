@@ -70,7 +70,7 @@ void calcular(double n1, double n2, String operacao){
 
 **Primeiro contato:**
 
-Entrar em flutter.dev (ou flutter.io) e procurar o local para começar a utilizar o flutter (Getting Started)
+Entrar em flutter.dev (ou flutter.io) e procurar o local para começar a utilizar o flutter (Get Started)
 Seguir os passos de instalação, que constituem basicamente de:
  - Baixar o SDK do Flutter e colocá-lo na pasta "C:\src\flutter"
  - Baixar e instalar o Android Studio
