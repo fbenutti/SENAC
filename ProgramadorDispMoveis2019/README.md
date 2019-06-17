@@ -80,7 +80,7 @@ Seguir os passos de instalação, que constituem basicamente de:
 
 **Criação do primeiro App**
 
-Regra nº1: **Nunca feche a máquina virtual**
+Regra nº1: **Após aberta, nunca feche a máquina virtual**
 
 1. Abrir o Android Studio
 2. Abrir a Máquina Virtual (emulador do Android)
