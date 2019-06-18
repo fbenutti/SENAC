@@ -31,3 +31,30 @@ class _ClasseComEstadoState extends State<ClasseComEstado> {
 }
 ```
 
+### Widgets utilizados
+
+Para o aplicativo da calculadora simples, utilizamos os seguintes Widgets:
+ - Container
+   - Serve como uma "caixa" para outro Widget. Ele pode ter um parâmetro child. Ele pode ter também margem interna (padding).
+ - TextField
+   - Campo de texto permite que os usuários digitem texto em um aplicativo.
+ - SizedBox
+   - Serve como espaçamento entre um Widget e outro. Pode ser espaçamento vertical e horizontal.
+ - DropdownButton
+   - É um botão que, quando pressionado, lista as opções criadas e permite que seja selecionada uma delas.
+ - RaisedButton
+   - Serve como botão.
+ - Column
+   - É Widget de layout para colocar outros Widget um embaixo do outro. Aceita um parâmetro children (são vários widgets).
+ - Center
+   - Serve para centralizar o Widget que for passado como filho (child).
+   
+### Eventos (funções) utilizadas
+
+ - onChaged:
+   - Foi utilizado na DropdownButton para atualizar a operação escolhida.
+ - onPressed:
+   - Foi utilizado no RaisedButton para realizar o cálculo.
+ - setState:
+   - Utilizado **SEMPRE** que a tela precisou ser *atualizada*.
+   
